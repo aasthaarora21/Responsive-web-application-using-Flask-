@@ -1,0 +1,17 @@
+{
+  "params":{
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com/212aastha",
+    "git_hub_url": "https://github.com/aasthaarora21",
+    "twitter_url": "https://twitter.com/212aastha",
+    "blog_name":"Coding Thunder",
+    "tittle_name": "TheCodingThunder",
+    "nav_bar_brand_name": "TheCodingThunder",
+    "subheading_name": "A Blog for Programmers By Programmers",
+    "gmail_id":"dummytesting1k@gmail.com",
+    "gmail_password": "dummydummy"
+
+}
+}
